@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tilak R</h1>
 <h3 align="center">A passionate Data science enthusiast from India</h3>
 
+![thoughtworks-gif_dribbble](https://github.com/user-attachments/assets/dcc9b877-a034-40a4-a49f-2ef61bceaa41)
+
+
 - 🔭 I’m currently working as **Data science Trainee at Almabetter**
 
 - 🌱 I’m currently learning **Frameworks and courses on data science**
